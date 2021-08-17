@@ -1,4 +1,12 @@
-var ChartBulek = {
+/*
+ Version: 0.0.1
+  Author: Grafis Nuresa
+ Website: https://iamgdevvv.github.io/autofillform
+    Docs: https://iamgdevvv.github.io/autofillform
+    Repo: https://github.com/iamgdevvv/autofillform
+  Issues: https://github.com/iamgdevvv/autofillform/issues
+ */
+ var ChartBulek = {
     createEl: function(data) {
         var width   = 100;
         var radius  = 50;
